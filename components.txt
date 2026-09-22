@@ -1,0 +1,6 @@
+Arduino Uno
+1 × LED
+1 × 220Ω Resistor
+Breadboard
+2 Jumper Wires
+USB Cable
